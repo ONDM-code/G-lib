@@ -1,6 +1,6 @@
 #  G-lib
 
-> il s'agit d'un gestinnaire de bibiotheque qui va servir  enregistrer des membres , des livres , des emprunts mais également des retard .
+> il s'agit d'un gestionnaire de bibiotheque qui va servir  enregistrer des membres , des livres , des emprunts mais également des retard .
 
 ---
 
